@@ -105,3 +105,9 @@ keywords_sample.xlsx
 *.tar.gz
 *.rar
 *.7z
+
+
+.ace-tool/
+/.*
+!.env.example
+!.gitignore
